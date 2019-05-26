@@ -1,0 +1,2 @@
+# export MODE=PRODUCTION
+# @see pkg/components/config.go

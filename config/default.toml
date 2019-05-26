@@ -1,0 +1,4 @@
+# @see pkg/components/config.go
+[app]
+    name = "Кроп картинок"
+    addr_bind ="0.0.0.0:8090"
